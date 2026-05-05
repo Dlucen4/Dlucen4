@@ -1,4 +1,4 @@
-# Hi 👋, Vinicius De Lucena
+# Hi 👋, Eu sou o Vinicius De Lucena
 
 🚀 **Junior Web Developer | HTML & CSS**  
 🇧🇷 Brazil
