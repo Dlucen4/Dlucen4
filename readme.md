@@ -3,10 +3,11 @@
 🚀 **Junior Web Developer | HTML & CSS**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Estou focado em me tornar um **desenvolvedor web sólido**, construindo uma base forte em **HTML, CSS e JavaScript**.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Atualmente, estou trabalhando para dominar JavaScript e expandir meus conhecimentos para **TypeScript e React**.
+
+Valorizo **código limpo, disciplina e melhoria constante**, com o objetivo de crescer como desenvolvedor profissional.
 
 ---
 
@@ -39,7 +40,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+
 
 
 
@@ -62,10 +63,9 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Disciplina no processo, evolução no código.  
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se você gostou do meu trabalho, considere dar uma estrela em meu repositório
+🤝 Sempre aberto a colaborações, parcerias e ideias interessantes
